@@ -1,0 +1,12 @@
+# Requirements for the COVID-19 data project
+# ------------------------------------------
+# pandas: for CSV handling, DataFrame manipulation, and data cleaning
+pandas>=1.5.0
+
+# matplotlib: for creating charts and visualizations (bar charts)
+matplotlib>=3.7.0
+
+# Notes:
+# - sqlite3 is not required here because it is a built-in Python module
+# - You can add more libraries in the future and include a comment above each explaining its purpose
+# - Users can install all dependencies with: pip install -r requirements.txt
