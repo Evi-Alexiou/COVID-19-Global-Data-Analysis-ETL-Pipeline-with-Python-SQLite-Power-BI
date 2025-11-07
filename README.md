@@ -86,10 +86,10 @@ The project follows a **full ETL and analysis workflow**:
 
 ## Requirements
 
-Python 3.10+ recommended.  
+Python 3.10+ recommended. 
+ 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt
 
 ---
